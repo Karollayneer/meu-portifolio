@@ -55,6 +55,18 @@ function App() {
           link="https://github.com/Karollayneer/Site-nutri"
         />
 
+        
+          <Project
+          title="DK ENTRETENIMENTO"
+          description="Site institucional moderno e responsivo desenvolvido para divulgação de serviço
+          s de entretenimento digital. O projeto conta com integração direta ao WhatsApp, navegação suave entre seções,
+           design dark premium com detalhes em dourado e estrutura otimizada para divulgação online. 
+           Compatível com celulares, tablets e computadores. 
+           Tecnologias utilizadas: HTML5, CSS3, JavaScript E Font Awesome."
+          image="/images/projeto5.jpg" 
+          link="https://dk-entretenimento.vercel.app/"  
+        />
+
         {/*
           <Project
           title="projeto 4"
@@ -64,6 +76,28 @@ function App() {
         />*/}
 
         {/*
+          <Project
+          title="projeto 4"
+          description="descriçãp"
+          image="/images/projeto4.jpg" 
+          link="link do projeto"  
+        />*/}
+      {/*
+          <Project
+          title="projeto 4"
+          description="descriçãp"
+          image="/images/projeto4.jpg" 
+          link="link do projeto"  
+        />*/}
+
+        {/*
+          <Project
+          title="projeto 4"
+          description="descriçãp"
+          image="/images/projeto4.jpg" 
+          link="link do projeto"  
+        />*/}
+      {/*
           <Project
           title="projeto 4"
           description="descriçãp"
