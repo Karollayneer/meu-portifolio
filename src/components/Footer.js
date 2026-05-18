@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer style={styles.footer}>
-      <p>&copy; 2024 Karolayne Rodrigues</p>
+      <p>&copy; 2026 Karolayne Rodrigues</p>
       <div style={styles.links}>
         
         <a href="https://www.linkedin.com/in/karolayne-rodrigues-794164245/" target="_blank" rel="noopener noreferrer" style={styles.link}>
